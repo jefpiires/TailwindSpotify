@@ -14,7 +14,7 @@ export function Main() {
         </button>
       </div>
 
-      <h1 className="font-semibold text-3xl mt-10">Good Afternoon Lady Luci</h1>
+      <h1 className="font-semibold text-3xl mt-10">Good Afternoon</h1>
 
       <div className="grid grid-cols-3 gap-4 mt-8">
         <RecentMusic img="/Versinho.jpg" name="PLAYLIST DO VERSINHO" />
